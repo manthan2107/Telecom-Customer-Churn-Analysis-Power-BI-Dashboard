@@ -149,4 +149,4 @@ Telecom-Customer-Churn-Analysis/
 
 **Manthan Solanki**
 
-LinkedIn: [*link*](https://www.linkedin.com/in/manthan-solanki-15b02b24a)
+LinkedIn: https://www.linkedin.com/in/manthan-solanki-15b02b24a
